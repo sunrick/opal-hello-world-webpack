@@ -7,6 +7,13 @@ GIT
       ast (>= 2.3.0)
       parser (= 2.5.3.0)
 
+GIT
+  remote: https://github.com/merongivian/vue.rb
+  revision: 9e271e06787b1abb6ac4074f2fb9a60e095dca27
+  specs:
+    vue.rb (0.1.0)
+      opal (>= 0.10.2)
+
 GEM
   specs:
     ast (2.4.0)
@@ -29,6 +36,7 @@ PLATFORMS
 DEPENDENCIES
   opal!
   opal-webpack-loader (~> 0.8.0)
+  vue.rb!
 
 BUNDLED WITH
    1.17.2
