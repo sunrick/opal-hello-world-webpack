@@ -7,3 +7,5 @@ bundle install
 yarn install
 yarn dev
 ```
+
+Open `localhost:8080`

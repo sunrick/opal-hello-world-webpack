@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "dev": "webpack-dev-server --open"
+    "dev": "webpack-dev-server"
   },
   "devDependencies": {
     "webpack": "^4.31.0",
