@@ -2428,10 +2428,10 @@ once@^1.3.0, once@^1.3.1, once@^1.4.0:
   dependencies:
     wrappy "1"
 
-opal-webpack-loader@^0.8.1:
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/opal-webpack-loader/-/opal-webpack-loader-0.8.1.tgz#c42ec3916f9456c976210fc4570c8e55ac23f895"
-  integrity sha512-MoMRR+w5F5aEjW5YvqFnAWj3uu+O00z/gSes+QDJ6wZOQbDZWypX/3lJK8KH3n0rsZn9hi+HCG61lfkKNtLFPw==
+opal-webpack-loader@0.9.6:
+  version "0.9.6"
+  resolved "https://registry.yarnpkg.com/opal-webpack-loader/-/opal-webpack-loader-0.9.6.tgz#c876f113a9a5df869757c47df9a234e924d9f989"
+  integrity sha512-JG1rxwLeGf+jl8GSxjMwHAPpk3GyIArYE3YPbtl93ZaRnw5Nhooh8xWp2h1hPnA0YbO8mfyO47QdsmXqRPI4ng==
   dependencies:
     loader-utils "^1.2.3"
     webpack "^4.30.0"

@@ -11,6 +11,6 @@
     "webpack-dev-server": "^3.3.1"
   },
   "dependencies": {
-    "opal-webpack-loader": "^0.8.1"
+    "opal-webpack-loader": "0.9.6"
   }
 }
